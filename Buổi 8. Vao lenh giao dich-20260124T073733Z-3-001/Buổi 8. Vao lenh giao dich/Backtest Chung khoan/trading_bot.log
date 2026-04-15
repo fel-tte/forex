@@ -1,0 +1,350 @@
+2025-08-04 10:21:16,035 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-04 10:21:16,145 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-04 10:21:16,146 - INFO - Starting backtest with 48 signals
+2025-08-04 10:21:16,147 - INFO - BUY 2770 ABS @ 3,610 VND
+2025-08-04 10:21:16,148 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,148 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,149 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,150 - INFO - SELL 2770 ABS @ 3,540 VND, P&L: -193,900 VND (-1.94%)
+2025-08-04 10:21:16,150 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,151 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,152 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,153 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,154 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,154 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,155 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,155 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,156 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,157 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,158 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,158 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,159 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,160 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,160 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,161 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,162 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,163 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,164 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,164 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,165 - INFO - BUY 2746 ABS @ 3,570 VND
+2025-08-04 10:21:16,166 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,167 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,167 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,168 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,169 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,170 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,171 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,172 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,173 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,173 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,174 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,175 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,176 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,177 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,177 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,178 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:21:16,179 - INFO - SELL 2746 ABS @ 3,800 VND, P&L: 631,580 VND (6.44%)
+2025-08-04 10:21:16,179 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,180 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,181 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,181 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,182 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:21:16,183 - INFO - Backtest completed
+2025-08-04 10:45:10,840 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-04 10:45:10,877 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-04 10:45:10,877 - INFO - Starting backtest with 48 signals
+2025-08-04 10:45:10,878 - INFO - BUY 2770 ABS @ 3,610 VND
+2025-08-04 10:45:10,879 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,880 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,880 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,881 - INFO - SELL 2770 ABS @ 3,540 VND, P&L: -193,900 VND (-1.94%)
+2025-08-04 10:45:10,882 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,883 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,883 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,884 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,885 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,886 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,886 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,887 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,888 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,889 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,889 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,890 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,891 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,892 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,892 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,893 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,894 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,894 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,895 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,896 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,897 - INFO - BUY 2746 ABS @ 3,570 VND
+2025-08-04 10:45:10,897 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,898 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,899 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,899 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,900 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,901 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,902 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,902 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,903 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,904 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,904 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,905 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,905 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,906 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,907 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,907 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:45:10,908 - INFO - SELL 2746 ABS @ 3,800 VND, P&L: 631,580 VND (6.44%)
+2025-08-04 10:45:10,909 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,909 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,910 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,911 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,911 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:45:10,912 - INFO - Backtest completed
+2025-08-04 10:51:27,051 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-04 10:51:27,090 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-04 10:51:27,091 - INFO - Starting backtest with 48 signals
+2025-08-04 10:51:27,092 - INFO - BUY 2770 ABS @ 3,610 VND
+2025-08-04 10:51:27,093 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,094 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,095 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,096 - INFO - SELL 2770 ABS @ 3,540 VND, P&L: -193,900 VND (-1.94%)
+2025-08-04 10:51:27,096 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,097 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,098 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,099 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,100 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,100 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,101 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,102 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,103 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,104 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,105 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,105 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,106 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,107 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,108 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,109 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,110 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,110 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,111 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,112 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,113 - INFO - BUY 2746 ABS @ 3,570 VND
+2025-08-04 10:51:27,114 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,114 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,115 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,116 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,117 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,118 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,119 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,119 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,120 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,121 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,122 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,122 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,123 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,124 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,125 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,126 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-04 10:51:27,127 - INFO - SELL 2746 ABS @ 3,800 VND, P&L: 631,580 VND (6.44%)
+2025-08-04 10:51:27,127 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,128 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,129 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,130 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,131 - INFO - No position in ABS, skipping SELL signal
+2025-08-04 10:51:27,132 - INFO - Backtest completed
+2025-08-05 21:43:28,578 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-05 21:43:28,979 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-05 21:43:29,097 - INFO - Starting backtest with 50 signals
+2025-08-05 21:43:29,102 - INFO - 📋 Quy tắc: Mua 100 CP với giá mở cửa nến tiếp theo, Bán toàn bộ với giá mở cửa nến tiếp theo
+2025-08-05 21:43:29,118 - INFO - BUY 100 VNM @ 55,500 VND (Cost: 5,550,000 VND)
+2025-08-05 21:43:29,212 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,229 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,242 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,247 - INFO - SELL 100 VNM @ 55,800 VND, P&L: 30,000 VND (0.54%)
+2025-08-05 21:43:29,249 - INFO - BUY 100 VNM @ 57,000 VND (Cost: 5,700,000 VND)
+2025-08-05 21:43:29,252 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,255 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,258 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,260 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,264 - INFO - SELL 100 VNM @ 55,600 VND, P&L: -140,000 VND (-2.46%)
+2025-08-05 21:43:29,268 - INFO - No position in VNM, skipping SELL signal
+2025-08-05 21:43:29,311 - INFO - No position in VNM, skipping SELL signal
+2025-08-05 21:43:29,314 - INFO - BUY 100 VNM @ 56,400 VND (Cost: 5,640,000 VND)
+2025-08-05 21:43:29,321 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,324 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,326 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,334 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,346 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,401 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,408 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,411 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,414 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,420 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,426 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,430 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,441 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,444 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,449 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,463 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,476 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,489 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,494 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,502 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,508 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,512 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,525 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,551 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,557 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,561 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,567 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,579 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,612 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,625 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,646 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,664 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,693 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,698 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,712 - INFO - Already have position in VNM, skipping BUY signal
+2025-08-05 21:43:29,722 - WARNING - Không tìm thấy nến tiếp theo cho signal 2025-08-05 00:00:00
+2025-08-05 21:43:29,745 - INFO - Closed position: VNM, P&L: 370,000 VND (6.56%)
+2025-08-05 21:43:29,754 - INFO - Backtest completed
+2025-08-05 21:50:15,131 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-05 21:50:19,981 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-05 21:50:19,991 - INFO - Starting backtest with 50 signals
+2025-08-05 21:50:19,994 - INFO - 📋 Quy tắc: Mua 100 CP với giá mở cửa nến tiếp theo, Bán toàn bộ với giá mở cửa nến tiếp theo
+2025-08-05 21:50:20,015 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,054 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,069 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,135 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,155 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,189 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,192 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,200 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,234 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,254 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,293 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,354 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,442 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,450 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,463 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,489 - INFO - BUY 100 VCB @ 56,700 VND (Cost: 5,670,000 VND)
+2025-08-05 21:50:20,502 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,506 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,513 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,555 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,581 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,594 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,604 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,613 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,629 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,633 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,641 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,650 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,661 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,666 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,677 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,683 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,713 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,722 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,724 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,730 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,737 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,740 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,749 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,773 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,778 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,781 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,788 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,791 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,797 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,803 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,810 - INFO - Already have position in VCB, skipping BUY signal
+2025-08-05 21:50:20,814 - INFO - SELL 100 VCB @ 60,100 VND, P&L: 340,000 VND (6.00%)
+2025-08-05 21:50:20,824 - INFO - No position in VCB, skipping SELL signal
+2025-08-05 21:50:20,834 - WARNING - Không tìm thấy nến tiếp theo cho signal 2025-08-05 00:00:00
+2025-08-05 21:50:20,843 - INFO - Backtest completed
+2025-08-05 21:54:22,668 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-05 21:54:22,849 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-05 21:54:22,852 - INFO - Starting backtest with 49 signals
+2025-08-05 21:54:22,862 - INFO - 📋 Quy tắc: Mua 100 CP với giá mở cửa nến tiếp theo, Bán toàn bộ với giá mở cửa nến tiếp theo
+2025-08-05 21:54:22,869 - INFO - BUY 100 ABS @ 3,610 VND (Cost: 361,000 VND)
+2025-08-05 21:54:22,875 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:22,893 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:22,904 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:22,930 - INFO - SELL 100 ABS @ 3,550 VND, P&L: -6,000 VND (-1.66%)
+2025-08-05 21:54:22,935 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:22,954 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:22,992 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,024 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,030 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,042 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,068 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,085 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,140 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,150 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,154 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,177 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,245 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,286 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,292 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,302 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,312 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,318 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,350 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,354 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,385 - INFO - BUY 100 ABS @ 3,560 VND (Cost: 356,000 VND)
+2025-08-05 21:54:23,409 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,414 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,421 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,442 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,451 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,459 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,466 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,474 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,501 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,565 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,571 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,626 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,631 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,660 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,710 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,719 - INFO - Already have position in ABS, skipping BUY signal
+2025-08-05 21:54:23,727 - INFO - SELL 100 ABS @ 3,830 VND, P&L: 27,000 VND (7.58%)
+2025-08-05 21:54:23,786 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,794 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,803 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,836 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,925 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:23,971 - WARNING - Không tìm thấy nến tiếp theo cho signal 2025-08-05 00:00:00
+2025-08-05 21:54:24,011 - INFO - Backtest completed
+2025-08-05 21:54:49,348 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-05 21:54:49,545 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-05 21:54:49,549 - INFO - Starting backtest with 9 signals
+2025-08-05 21:54:49,561 - INFO - 📋 Quy tắc: Mua 100 CP với giá mở cửa nến tiếp theo, Bán toàn bộ với giá mở cửa nến tiếp theo
+2025-08-05 21:54:49,565 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,570 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,573 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,628 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,639 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,644 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,658 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,710 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,715 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:54:49,716 - INFO - Backtest completed
+2025-08-05 21:55:36,910 - INFO - Đã tính toán các chỉ báo kỹ thuật bằng TA-Lib
+2025-08-05 21:55:37,167 - INFO - Backtest engine initialized with balance: 10,000,000 VND
+2025-08-05 21:55:37,169 - INFO - Starting backtest with 10 signals
+2025-08-05 21:55:37,170 - INFO - 📋 Quy tắc: Mua 100 CP với giá mở cửa nến tiếp theo, Bán toàn bộ với giá mở cửa nến tiếp theo
+2025-08-05 21:55:37,193 - INFO - BUY 100 ABS @ 3,480 VND (Cost: 348,000 VND)
+2025-08-05 21:55:37,210 - INFO - SELL 100 ABS @ 3,800 VND, P&L: 32,000 VND (9.20%)
+2025-08-05 21:55:37,218 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,270 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,276 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,308 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,325 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,367 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,391 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,402 - INFO - No position in ABS, skipping SELL signal
+2025-08-05 21:55:37,407 - INFO - Backtest completed

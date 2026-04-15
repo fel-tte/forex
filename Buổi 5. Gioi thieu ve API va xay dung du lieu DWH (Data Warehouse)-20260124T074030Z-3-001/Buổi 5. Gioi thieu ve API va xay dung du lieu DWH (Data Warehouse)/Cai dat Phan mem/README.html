@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách phần mềm cần cài đặt cho buổi học thứ năm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #666;
+        }
+        h3 {
+            color: #888;
+        }
+        h4 {
+            color: #888;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Danh sách phần mềm cần cài đặt cho buổi học thứ năm</h1>
+
+    <h2>1. Python</h2>
+    <ul>
+        <li>Phiên bản khuyến nghị: 3.11.x, 3.10.x hoặc 3.9.x</li>
+        <li>Link tải: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></li>
+        <li>Hướng dẫn cài đặt:
+            <ul>
+                <li>Tải file cài đặt phù hợp với hệ điều hành</li>
+                <li>Chạy file cài đặt</li>
+                <li>Đánh dấu vào ô "Add Python to PATH" trong quá trình cài đặt</li>
+                <li>Hoàn tất quá trình cài đặt</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>2. Jupyter Notebook hoặc VS Code</h2>
+    <h3>Jupyter Notebook</h3>
+    <ul>
+        <li>Cài đặt thông qua pip:
+            <pre><code>pip install notebook</code></pre>
+        </li>
+        <li>Khởi động Jupyter Notebook:
+            <pre><code>jupyter notebook</code></pre>
+        </li>
+    </ul>
+
+    <h3>Visual Studio Code</h3>
+    <ul>
+        <li>Link tải: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
+        <li>Cài đặt các extension cần thiết:
+            <ul>
+                <li>Python</li>
+                <li>Jupyter</li>
+                <li>Python Extension Pack</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>3. Các thư viện Python cơ bản</h2>
+    <p>Cài đặt các thư viện cần thiết thông qua pip:</p>
+    <pre><code>pip install numpy pandas matplotlib yfinance metatrader5 scikit-learn sqlalchemy pyodbc xlsxwriter requests beautifulsoup4</code></pre>
+
+    <h2>4. Công cụ phát triển API</h2>
+    <h3>Postman (Tùy chọn)</h3>
+    <ul>
+        <li>Link tải: <a href="https://www.postman.com/downloads/">https://www.postman.com/downloads/</a></li>
+        <li>Cài đặt nếu bạn muốn test API</li>
+    </ul>
+
+    <h2>5. SQL Server và SQL Server Management Studio (SSMS)</h2>
+    <h3>SQL Server</h3>
+    <ul>
+        <li>Link tải: <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">https://www.microsoft.com/en-us/sql-server/sql-server-downloads</a></li>
+        <li>Chọn phiên bản "Developer" (miễn phí cho mục đích học tập)</li>
+        <li>Hướng dẫn cài đặt:
+            <ul>
+                <li>Tải file cài đặt SQL Server</li>
+                <li>Chạy file cài đặt</li>
+                <li>Chọn "Basic" installation type</li>
+                <li>Chọn thư mục cài đặt</li>
+                <li>Nhấn "Install" và đợi quá trình cài đặt hoàn tất</li>
+                <li>Ghi nhớ mật khẩu SA (System Administrator) được tạo trong quá trình cài đặt</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>SQL Server Management Studio (SSMS)</h3>
+    <ul>
+        <li>Link tải: <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms">https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms</a></li>
+        <li>Cài đặt để quản lý cơ sở dữ liệu SQL Server</li>
+        <li>Hướng dẫn kết nối:
+            <ul>
+                <li>Mở SSMS</li>
+                <li>Server name: localhost hoặc .\SQLEXPRESS</li>
+                <li>Authentication: SQL Server Authentication</li>
+                <li>Login: sa</li>
+                <li>Password: (mật khẩu đã tạo khi cài đặt SQL Server)</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>6. Redis</h2>
+    <h3>Redis Server</h3>
+    <ul>
+        <li>Link tải: <a href="https://github.com/tporadowski/redis/releases">https://github.com/tporadowski/redis/releases</a></li>
+        <li>Cài đặt Redis server cho Windows</li>
+    </ul>
+
+    <h3>Redis Desktop Manager (Client)</h3>
+    <ul>
+        <li>Link tải: <a href="https://redis-desktop-manager.en.lo4d.com/download">https://redis-desktop-manager.en.lo4d.com/download</a></li>
+        <li>Cài đặt công cụ quản lý Redis để dễ dàng thao tác với dữ liệu</li>
+    </ul>
+
+    <h2>7. MetaTrader 5 (Tùy chọn)</h2>
+    <ul>
+        <li>Link tải: <a href="https://www.metatrader5.com/">https://www.metatrader5.com/</a></li>
+        <li>Cài đặt nếu bạn muốn học về phần mềm giao dịch</li>
+    </ul>
+
+    <h2>Tóm tắt các bước cài đặt</h2>
+    <ol>
+        <li>Cài đặt Python 3.x</li>
+        <li>Cài đặt Jupyter Notebook hoặc VS Code</li>
+        <li>Cài đặt các thư viện Python cơ bản bằng pip</li>
+        <li>(Tùy chọn) Cài đặt Postman để test API</li>
+        <li>Cài đặt SQL Server và SQL Server Management Studio</li>
+        <li>Cài đặt Redis</li>
+        <li>(Tùy chọn) Cài đặt MetaTrader 5 nếu muốn học về phần mềm giao dịch</li>
+    </ol>
+</body>
+</html> 

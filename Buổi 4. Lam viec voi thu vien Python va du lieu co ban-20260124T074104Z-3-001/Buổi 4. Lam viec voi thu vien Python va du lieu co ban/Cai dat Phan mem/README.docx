@@ -1,0 +1,38 @@
+Danh sách phần mềm cần cài đặt cho buổi học thứ tư
+
+1. Python
+- Phiên bản khuyến nghị: 3.11.x, 3.10.x hoặc 3.9.x
+- Link tải: https://www.python.org/downloads/
+- Hướng dẫn cài đặt:
+  - Tải file cài đặt phù hợp với hệ điều hành
+  - Chạy file cài đặt
+  - Đánh dấu vào ô "Add Python to PATH" trong quá trình cài đặt
+  - Hoàn tất quá trình cài đặt
+
+2. Jupyter Notebook hoặc VS Code
+Jupyter Notebook
+- Cài đặt thông qua pip:
+pip install notebook
+- Khởi động Jupyter Notebook:
+jupyter notebook
+
+Visual Studio Code
+- Link tải: https://code.visualstudio.com/
+- Cài đặt các extension cần thiết:
+  - Python
+  - Jupyter
+  - Python Extension Pack
+
+3. Các thư viện Python cơ bản
+Cài đặt các thư viện cần thiết thông qua pip:
+pip install numpy pandas matplotlib yfinance metatrader5 scikit-learn sqlalchemy pyodbc xlsxwriter
+
+4. MetaTrader 5 (Tùy chọn)
+- Link tải: https://www.metatrader5.com/
+- Cài đặt nếu bạn muốn học về phần mềm giao dịch
+
+Tóm tắt các bước cài đặt
+1. Cài đặt Python 3.x
+2. Cài đặt Jupyter Notebook hoặc VS Code
+3. Cài đặt các thư viện Python cơ bản bằng pip
+4. (Tùy chọn) Cài đặt MetaTrader 5 nếu muốn học về phần mềm giao dịch 
