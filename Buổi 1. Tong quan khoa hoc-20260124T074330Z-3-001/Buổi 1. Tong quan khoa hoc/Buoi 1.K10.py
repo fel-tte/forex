@@ -1,1 +1,0 @@
-print("Hello cac ban AutoTrade")
