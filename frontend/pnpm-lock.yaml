@@ -4,13 +4,18 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  '@ant-design-vue/pro-layout@1.0.13':
+    hash: aa0d657c2b890b00e4cd1e24928c903853febebcc53c2234172b4a785a3fdb0c
+    path: patches/@ant-design-vue__pro-layout@1.0.13.patch
+
 importers:
 
   .:
     dependencies:
       '@ant-design-vue/pro-layout':
         specifier: ^1.0.12
-        version: 1.0.13(ant-design-vue@1.7.8(vue-template-compiler@2.7.16)(vue@2.7.16))(umi-request@1.4.0)(vue-container-query@0.1.0)(vue-template-compiler@2.7.16)(vue@2.7.16)
+        version: 1.0.13(patch_hash=aa0d657c2b890b00e4cd1e24928c903853febebcc53c2234172b4a785a3fdb0c)(ant-design-vue@1.7.8(vue-template-compiler@2.7.16)(vue@2.7.16))(umi-request@1.4.0)(vue-container-query@0.1.0)(vue-template-compiler@2.7.16)(vue@2.7.16)
       '@ant-design/colors':
         specifier: ^8.0.1
         version: 8.0.1
@@ -3034,7 +3039,7 @@ packages:
 
 snapshots:
 
-  '@ant-design-vue/pro-layout@1.0.13(ant-design-vue@1.7.8(vue-template-compiler@2.7.16)(vue@2.7.16))(umi-request@1.4.0)(vue-container-query@0.1.0)(vue-template-compiler@2.7.16)(vue@2.7.16)':
+  '@ant-design-vue/pro-layout@1.0.13(patch_hash=aa0d657c2b890b00e4cd1e24928c903853febebcc53c2234172b4a785a3fdb0c)(ant-design-vue@1.7.8(vue-template-compiler@2.7.16)(vue@2.7.16))(umi-request@1.4.0)(vue-container-query@0.1.0)(vue-template-compiler@2.7.16)(vue@2.7.16)':
     dependencies:
       ant-design-vue: 1.7.8(vue-template-compiler@2.7.16)(vue@2.7.16)
       classnames: 2.5.1
